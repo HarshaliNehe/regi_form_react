@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" type="text/css" href="registration.css">
+<link rel="stylesheet" type="text/css" href="index.css">
 <!--validation of password and confirm password using js-->
    <script>
         function validate()
@@ -34,7 +34,7 @@
         
         </center>
 
-        cd<hr>
+        <hr>
 
     <label for="User Name"><b>User Name</b></label>
     <input type="text" placeholder="User Name" name="username" required>

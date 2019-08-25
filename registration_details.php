@@ -43,7 +43,7 @@ session_start();
 
         mysqli_query($db,$query);
   
-        header('Location:registration.php');//rediect to index page after insertion
+        header('Location:index.php');//rediect to index page after insertion
 
 
 
